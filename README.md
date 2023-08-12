@@ -1,3 +1,3 @@
-# My-first-website
-This is my first repository on GitHub
-I am looking forward to improving my coding skills to a great extent 
+# Mpfuxi's Love for Cars 
+<h2>It is not just a piece of metal</h2>
+<p>If i were to put in words the motive of my hunger to succeed it would simply just be cars. The pure sound of that cold start from a V8 engine with twin-turbos growling, eases my heart and waters my eyes simultaneously seranating my ears. The kid in me jumps with joy, and I yearn to fulfill this childhood dreaming at all costs, come rain, come sunshine, one thing I am certain of is that I am going to make it happen. I was the kid who would shamelessly walk up to a random stranger with a car with a loud exhaust and ask them to rev it for me, the smile imprinted on my face was like no other. One day I want to be the uncle doing it for just a random kid, returning the favour. These are the memories that will forever be sewn into my heart, SWI NGE NDLEKI SWI NGA ENDLEKI! </p>
